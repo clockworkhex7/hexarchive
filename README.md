@@ -11,7 +11,7 @@ Any questions? Please email hex@berkeley.edu.
 
 **Warning!**
 Please note that all the materials in this repository are for personal use only. 
-Please do not share, retweet, or redistribute any part of this content without obtaining explicit permission from the author.
+Please do not share, save, or redistribute any part of this content without obtaining explicit permission from the author.
 
 By accessing or using these materials, you agree to the following terms:
 No Unauthorized Sharing: You may not publicly share or distribute these materials on social media, other websites, or platforms without prior consent.
