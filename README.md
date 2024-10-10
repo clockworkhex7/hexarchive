@@ -17,6 +17,8 @@ By accessing or using these materials, you agree to the following terms:
 No Unauthorized Sharing: You may not publicly share or distribute these materials on social media, other websites, or platforms without prior consent.
 
 **Permission Required**
+
 If you wish to share any part of this repository, you must first contact the owner and receive written permission.
 
-**Attribution** If permission is granted, appropriate attribution must be provided.
+**Attribution** 
+If permission is granted, appropriate attribution must be provided.
